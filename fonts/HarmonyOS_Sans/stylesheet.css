@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'HarmonyOS Sans';
+    src: url('HarmonyOS_Sans.eot');
+    src: url('HarmonyOS_Sans.eot?#iefix') format('embedded-opentype'),
+        url('HarmonyOS_Sans.woff2') format('woff2'),
+        url('HarmonyOS_Sans.woff') format('woff'),
+        url('HarmonyOS_Sans.ttf') format('truetype'),
+        url('HarmonyOS_Sans.svg#HarmonyOS_Sans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
